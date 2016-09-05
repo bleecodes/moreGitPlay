@@ -7,5 +7,6 @@ public class EatFries {
 
     public void eating(){
         System.out.println("nom");
+        System.out.println("added this thing to branch another-one");
     }
 }
